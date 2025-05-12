@@ -1,5 +1,9 @@
 # student
 
+
+<img width="1080" alt="Scribe Tribe Header" src="https://github.com/user-attachments/assets/e8fcf619-323d-4272-9727-9ad2a10a89e2" />
+
+
 Student app, a robust mobile app built in flutter, is a part of the scribe tribe platform. Student app allows visually impaired students to register and create scribe requests for their written exams. They then receive applications from scribes through the scribe app and can further select through interested scribes. They can also add reviews for a scribe after a request has been closed.
 
 scribe app: https://github.com/prithviraj2002/scribe-app/tree/main
